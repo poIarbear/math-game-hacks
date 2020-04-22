@@ -1,0 +1,1 @@
+hack.instance.prodigy.player.getGold = () => hack.instance.prodigy.player.data.gold = "putnumberorwordshereinquotations";
