@@ -1,0 +1,1 @@
+hack.instance.prodigy.player.getTowerProgress = () => hack.instance.prodigy.player.data.tower = "putwordornumberinthequotationmarks";
